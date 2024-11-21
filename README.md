@@ -6,8 +6,8 @@ I attend the University of Oregon with a double major of Computer Science and Da
 Currently, I aim to maximize my understanding in Software Development to later connect it into
 more complex developement ideas, such as AI.
 
-I’m currently learning the principles of working with other developers.
-Not before knowing all there is to know about full-stack developement, with a focus on back-end.
+I’m currently learning the principles of learning the principles of collaboration and computational thinking, 
+while diving into full-stack development with a focus on back-end technologies.
 I wish to learn all those technical connections that make our world go around every day.
 Exploring new languages and frameworks during my own time.
 
