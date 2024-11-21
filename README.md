@@ -12,6 +12,7 @@ I wish to learn all those technical connections that make our world go around ev
 Exploring new languages and frameworks during my own time.
 
 How to reach me ...
+
 Main Email:
 ccorzo306@gmail.com
 
